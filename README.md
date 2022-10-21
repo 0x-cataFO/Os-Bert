@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Os-Bert
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, front-end
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a python developer @...
+- 💞️ I’m looking to...
 - 📫 How to reach me ossym003@gmail.com
 
 <!---
